@@ -2,6 +2,10 @@
 
 A practical checklist to audit Power Query models and identify common causes of slow refresh in Power BI and Excel.
 
+## Preview
+
+![Power Query Performance Audit Checklist](PowerQuery_Audit_Cover.png)
+
 Power Query performance issues often come from small design decisions:
 - broken query folding
 - unnecessary columns and rows
