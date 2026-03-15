@@ -45,4 +45,4 @@ The complete formatted checklist (PDF) is available here:
 
 Sandra Margot  
 Power BI & Microsoft Fabric Certified  
-Data analyst / data engineer
+Data engineer
