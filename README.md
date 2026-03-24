@@ -7,7 +7,7 @@ A practical checklist to audit Power Query models and identify common causes of 
 
 ![Power Query Performance Audit Checklist](PowerQuery_Audit_Cover.png)
 
-Power Query performance issues often come from small design decisions:
+Slow Power Query refreshes are often caused by small design decisions such as:
 - broken query folding
 - unnecessary columns and rows
 - duplicated queries
