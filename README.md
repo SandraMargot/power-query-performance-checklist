@@ -29,6 +29,10 @@ The audit framework contains **30 checks across 7 key areas**:
 
 Each check includes a short explanation of **why it impacts performance**.
 
+## Teaser
+
+![Power Query Audit Teaser](PowerQuery_Audit_Teaser.png)
+
 ## Typical use cases
 
 This checklist can be useful when:
