@@ -1,4 +1,5 @@
 # Power Query Performance Audit Checklist
+30 practical checks to diagnose slow Power Query refresh in under 30 minutes.
 
 A practical checklist to audit Power Query models and identify common causes of slow refresh in Power BI and Excel
 (query folding, staging queries, data reduction, and transformation patterns).
@@ -33,6 +34,8 @@ Checks are labelled with severity levels (CRITICAL, RECOMMENDED, NICE-TO-HAVE), 
 
 ## Teaser
 
+Example section from the checklist (Query Folding):
+
 ![Power Query Audit Teaser](PowerQuery_Audit_Teaser.png)
 
 ## Typical use cases
@@ -46,13 +49,12 @@ This checklist can be useful when:
 
 ## Full checklist
 
-The complete formatted checklist (PDF) is available here:
+The complete formatted checklist (paid PDF) is available here:
 
 ➡️ https://practicaldata.gumroad.com/l/power-query-performance-checklist
 
 
 ## Author
 
-Sandra Margot  
+Sandra Margot - Data engineer 
 Power BI & Microsoft Fabric Certified  
-Data engineer
