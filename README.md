@@ -1,6 +1,7 @@
 # Power Query Performance Audit Checklist
 
-A practical checklist to audit Power Query models and identify common causes of slow refresh in Power BI and Excel.
+A practical checklist to audit Power Query models and identify common causes of slow refresh in Power BI and Excel
+(query folding, staging queries, data reduction, and transformation patterns).
 
 ## Preview
 
@@ -28,6 +29,7 @@ The audit framework contains **30 checks across 7 key areas**:
 7. Parameters & Reusability
 
 Each check includes a short explanation of **why it impacts performance**.
+Checks are labelled with severity levels (CRITICAL, RECOMMENDED, NICE-TO-HAVE), and each section includes a scoring system.
 
 ## Teaser
 
